@@ -55,6 +55,5 @@ git clone https://github.com/ViktorKobylka/g00425163_computational_theory.git
 
 # Install dependencies
 pip install numpy jupyter
-pip install numpy
 ```
 ---
